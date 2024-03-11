@@ -46,4 +46,6 @@ Whatever, here is my telegram
 ### Uh, okay. 😀
 
 ![Jokes Card](https://readme-jokes.vercel.app/api)
-[![Typing SVG](https://readme-typing-svg.herokuapp.com?font=Jacquarda+Bastarda+9&pause=1000&color=FFFFFF&background=FF2C5000&random=false&width=435&lines=NikPyPs555PAP)](https://git.io/typing-svg)
+
+
+[![Typing SVG](https://readme-typing-svg.herokuapp.com?font=Jacquarda+Bastarda+9&pause=1000&color=000000&random=false&width=435&lines=NikPyPs555PAP)](https://git.io/typing-svg)
