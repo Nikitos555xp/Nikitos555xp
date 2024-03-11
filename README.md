@@ -31,14 +31,17 @@ You can find my contacts on [my silly website](https://nikitos555xp.github.io/Ad
 Whatever, here is my telegram
 * [Telegram](https://t.me/NikPyPs555PAP)
 
-🔥 Streak stats
+### 🔥 Streak stats
+
 [![GitHub Streak](https://github-readme-streak-stats.herokuapp.com/?user=nikitos555xp&theme=dark)](https://git.io/streak-stats)
 ---------------------------
 
-😉 Stats
+###  😉 Stats
+
 ![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=nikitos555xp&show_icons=true&theme=dark)
 ---------------------------
 
 ### Uh, okay. 😀
+
 ![Jokes Card](https://readme-jokes.vercel.app/api)
 [![Typing SVG](https://readme-typing-svg.herokuapp.com?font=Jacquarda+Bastarda+9&pause=1000&color=FFFFFF&background=FF2C5000&random=false&width=435&lines=NikPyPs555PAP)](https://git.io/typing-svg)
