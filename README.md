@@ -19,6 +19,8 @@ Im mostly doing web development, but Im also interested in low-level stuff. I us
 ### Socials
 <p align="left"> <a href="https://github.com/Nikitos555xp" target="_blank" rel="noreferrer"> <picture> <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/socials/github-dark.svg" /> <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/socials/github.svg" /> <img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/socials/github.svg" width="32" height="32" /> </picture> </a></p>
 
+###  Is that normal? Isn't it? 🤖
+
 <a href="https://github.com/nikitos555xp" align="left"><img src="https://github-readme-stats.vercel.app/api/top-langs/?username=nikitos555xp&langs_count=10&title_color=64748b&text_color=ffffff&icon_color=0891b2&bg_color=1c1917&hide_border=true&locale=en&custom_title=Top%20%Languages" alt="Top Languages" /></a>
 
 * Compact layout 👾
@@ -31,12 +33,12 @@ You can find my contacts on [my silly website](https://nikitos555xp.github.io/Ad
 Whatever, here is my telegram
 * [Telegram](https://t.me/NikPyPs555PAP)
 
-### 🔥 Streak stats
+### Streak stats 🔥
 
 [![GitHub Streak](https://github-readme-streak-stats.herokuapp.com/?user=nikitos555xp&theme=dark)](https://git.io/streak-stats)
 ---------------------------
 
-###  😉 Stats
+### Stats 😉
 
 ![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=nikitos555xp&show_icons=true&theme=dark)
 ---------------------------
