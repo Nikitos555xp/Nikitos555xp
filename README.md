@@ -31,11 +31,11 @@ Im mostly doing web development, but Im also interested in low-level stuff. I us
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=nikitos555xp&layout=compact&title_color=64748b&text_color=ffffff&icon_color=0891b2&bg_color=1c1917&hide_border=true&locale=en&)](https://github.com/anuraghazra/github-readme-stats)
 
 ### Contact me 📖
-You can find my contacts on [my silly website](https://nikitos555xp.github.io/AdminDoshard/)
+
 
 Whatever, here is my telegram
 * [Telegram](https://t.me/NikPyPs555PAP)
-
+* [Mail](niktograwlinkgvrw@gmail.com)
 ### Streak stats 🔥
 
 [![GitHub Streak](https://github-readme-streak-stats.herokuapp.com/?user=nikitos555xp&theme=dark)](https://git.io/streak-stats)
